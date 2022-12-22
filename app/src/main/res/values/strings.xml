@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Walmart-Assessment</string>
+    <string name="error_message">Error! Something went wrong!</string>
+    <string name="loading_message">Loading data…</string>
+</resources>
